@@ -1,13 +1,13 @@
 const data = [
     {
         id : 1,
-        name : "Abul Khan",
-        email : "abulkhan@gmail.com"
+        name : "Rahul",
+        email : "Rahul@gmail.com"
     },
     {
         id : 2,
-        name : "Khan",
-        email : "khan@gmail.com"
+        name : "Krishna",
+        email : "Krishna@gmail.com"
     },
     {
         id : 3,
@@ -17,12 +17,12 @@ const data = [
     {
         id : 4,
         name : "sanndip",
-        email : "samdip@gmail.com"
+        email : "sandip@gmail.com"
     },
     {
         id : 5,
-        name : "masaud khan",
-        email : "masaudkhan@gmail.com"
+        name : "masaud",
+        email : "masaud@gmail.com"
     },
     {
         id : 6,
